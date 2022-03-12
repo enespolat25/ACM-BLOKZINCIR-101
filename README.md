@@ -1,3 +1,4 @@
 # ACM-BLOKZINCIR-101
 8 haftalık blokzincir eğitimi
-![hafta 1](https://www.youtube.com/watch?v=GQjxMKGZsqw)
+
+![https://www.youtube.com/watch?v=GQjxMKGZsqw](1. HAFTA YOUTUBE)
