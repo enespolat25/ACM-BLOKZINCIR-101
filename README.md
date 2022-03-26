@@ -6,3 +6,5 @@
 [2. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=GQjxMKGZsqw)
 
 [3. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=5C1rBXkap20)
+
+[4. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=uxvPbRxG1YI)
