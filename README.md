@@ -8,3 +8,5 @@
 [3. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=5C1rBXkap20)
 
 [4. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=uxvPbRxG1YI)
+
+[5. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=gBeGQI81msc)
