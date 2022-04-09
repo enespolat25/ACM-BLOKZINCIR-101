@@ -10,3 +10,8 @@
 [4. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=uxvPbRxG1YI)
 
 [5. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=gBeGQI81msc)
+
+[6. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=tp_5HJM2PI8)
+
+
+
