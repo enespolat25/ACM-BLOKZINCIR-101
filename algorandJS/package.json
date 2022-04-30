@@ -1,0 +1,16 @@
+{
+  "name": "asa",
+  "version": "1.0.0",
+  "description": "simple ASA example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "enes polat",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^1.13.1",
+    "dotenv": "^16.0.0"
+  }
+}
