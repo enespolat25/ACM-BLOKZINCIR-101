@@ -15,5 +15,7 @@
 
 [7. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=Fv0zAFWTna8)
 
+[8. hafta YOUTUBE KAYDI](https://www.youtube.com/watch?v=107FIbGsry8)
+
 
 
